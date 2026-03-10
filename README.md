@@ -30,6 +30,6 @@ You are completely free to download, use, share, and modify this design. Simply 
 
 - Non-Commercial: This design is strictly for personal and individual use. You may not use this material for commercial purposes or sell it, it's modifications or anything related to it. If you remix, transform, or build upon this design, you must distribute your contributions for free under the exact same license.
 
-Don't forget to credit the original author of this piece.
+- Don't forget to credit the original author of this piece.
 
-I am not affiliated with, sponsored by, or endorsed by Accuracy International, any firearm or aftermarket parts manufacturers, or The LEGO Group. LEGO® is a trademark of the LEGO Group of companies, which does not sponsor, authorize, or endorse this project.
+- I am not affiliated with, sponsored by, or endorsed by Accuracy International, any firearm or aftermarket parts manufacturers, or The LEGO Group. LEGO® is a trademark of the LEGO Group of companies, which does not sponsor, authorize, or endorse this project.
