@@ -8,13 +8,18 @@ AX-50 Accuracy International
 - safety 
 - recoil (can be disabled) 
 - adjustable stock :
-  ~~- cheek pad~~ (not yet)
+  - ~~cheek pad~~ (not yet)
   - length
 - "field strip"
  
 
 ## Work In Progress :
 Studio Model will be updated as I work on it. The sniper is basically done mechanism-wise, I still need to improve it looks-wise.
+
+## Current progress on the studio model :
+it's in white so I don't break my eyes, I'll distribute two versions anyway (one with normal colors, one with easy to see colors to better understand the mechanism.)
+
+![Render1](./renders/AX50-first-render.png)
 
 ## Additional notes
 The recoil can be disabled by moving a part under the barrel. It's not practical and not meant to be toggled on and off repeteadly. 
