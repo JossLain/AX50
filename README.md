@@ -60,7 +60,7 @@ This model uses supermarket rubberbands (from Carrefour in France, they're bad),
 ## Credits :
 This Sniper is build by me, over the course of, as of today, 1 year.
 
-The shell design and the firing pin mechanism were brough to me by [GaryVR](https://wwdw.youtube.com/@GaryVR/videos) with his SESR Mk2 (he's the first I saw using them and explaing the mechanism with a tutorial). Then a few others such as [LegoBuildChannel](https://www.youtube.com/@LegoBuildChannel) or [SHRAPNEL](https://www.youtube.com/@SHRAPNEL_LEGO) popularized and perfected them.
+The shell design and the firing pin mechanism were brough to me by [GaryVR](https://www.youtube.com/@GaryVR/videos) with his SESR Mk2 (he's the first I saw using them and explaing the mechanism with a tutorial). Then a few others such as [LegoBuildChannel](https://www.youtube.com/@LegoBuildChannel) or [SHRAPNEL](https://www.youtube.com/@SHRAPNEL_LEGO) popularized and perfected them.
 
 The contraption to get the arch piece next to the trigger at the perfect height was achieved with the help of `lucahermann` and `zachpieces` on bricksculpt's discord server.
 
