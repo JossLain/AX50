@@ -18,19 +18,25 @@ Studio Model will be updated as I work on it. The sniper is basically done mecha
 
 ## Roadmap :
 IRL : 
+
 Finishing the barrel.
+
 smoothing/removing as much visible technic holes/studs as possible.
 
 STUDIO : 
+
 Model the recoil mechanism
-Model the roof
+
+~~Model the roof~~ 
+
 Model the barrel
+
 Instructions (I may not bother with them soon, the model is technically everything you need.)
 
 
 ## Improvements/ToDoList :
 
-- Picatinny rail for attachements on the roof(/barrel), I feel like we have space. [Akatuki918](https://www.youtube.com/@akatuki918/videos) has been making some work on it, I don't know how the mechanism could be adapted but it's some sort of proof of concept. 
+- Picatinny rail for attachements on the roof(/barrel), I feel like we have enough space. [Akatuki918](https://www.youtube.com/@akatuki918/videos) has been making some work on it, I don't know how the mechanism could be adapted but it's some sort of proof of concept. 
 
 - Find a better attachment for the bipod (or picatinny rail on the barrel too?).
 
@@ -49,6 +55,7 @@ Instructions (I may not bother with them soon, the model is technically everythi
 it's in white so I don't break my eyes, I'll distribute two versions anyway (one with normal colors, one with easy to see colors to better understand the mechanism.)
 
 ![Render2](./renders/AX50-2.png)
+OUTDATED, THE ROOF IS COMPLETED
 
 
 ## Additional notes : 
